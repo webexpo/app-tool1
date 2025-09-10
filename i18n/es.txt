@@ -1245,6 +1245,14 @@ The probability that this criterion is met is equal to %s.
 
 La probabilidad de que se cumpla este criterio es igual a %s.
 
+:: Translations: 35c74b2: Source Text
+
+Box and Whisker Plot
+
+:: Translations: 35c74b2: Translation
+
+Diagrama de caja y bigotes
+
 :: Translations: c2bb46d: Source Text
 
 It naturally integrates the treatment of non-detects.
@@ -1547,6 +1555,22 @@ Methodology
 
 Metodología
 
+:: Translations: 148b9b5: Source Text
+
+The measurements are scattered around the middle point of the x-axis. The box
+(outer horizontal lines) represents the distance between the %s and %s
+percentiles. The whisker (vertical line) represent the distance between the %s
+and %s percentiles. The inner black horizontal line is the median. The OEL is
+shown as a red line.
+
+:: Translations: 148b9b5: Translation
+
+Las mediciones se dispersan alrededor del punto medio del eje x. La caja
+(líneas horizontales exteriores) representa la distancia entre los percentiles
+%s y %s. Las barras (líneas verticales) representan la distancia entre los %s y
+%s percentiles. La línea horizontal negra interior es la mediana. El LEO se
+representa con una línea roja.
+
 :: Translations: 9797b53: Source Text
 
 Tool 1 assumes that the measurements represent a random sample drawn from the
@@ -1572,14 +1596,6 @@ Health, Volume 63, Issue 3, April 2019, Pages 267-279.
 Jérôme Lavoué, Lawrence Joseph, Peter Knott, Hugh Davies, France Labrèche,
 Frédéric Clerc, Gautier Mater, Tracy Kirkham, %s, Annals of Work Exposures and
 Health, Volumen 63, Número 3, Abril 2019, Páginas 267-279.
-
-:: Translations: ffb2d53: Source Text
-
-Box and Whiskers Plot
-
-:: Translations: ffb2d53: Translation
-
-Diagrama de caja y bigotes
 
 :: Translations: e42d220: Source Text
 
@@ -2125,20 +2141,6 @@ the OEL.
 
 El criterio de sobreexposición se define como la media aritmética superior o
 igual al LEO.
-
-:: Translations: 1708b36: Source Text
-
-The measurements are scattered around the x-axis middle point. The box (outer
-horizontal lines) represents the distance between the %s and %s percentiles.
-The whiskers (vertical lines) represent the distance between the %s and %s
-percentiles. The inner black horizontal line is the median.
-
-:: Translations: 1708b36: Translation
-
-Las mediciones se dispersan alrededor del punto medio del eje x. La caja
-(líneas horizontales exteriores) representa la distancia entre los percentiles
-%s y %s. Las barras (líneas verticales) representan la distancia entre los %s y
-%s percentiles. La línea horizontal negra interior es la mediana.
 
 :: Translations: 7385e52: Source Text
 

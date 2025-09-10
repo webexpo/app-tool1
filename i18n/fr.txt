@@ -1249,6 +1249,14 @@ The probability that this criterion is met is equal to %s.
 
 La probabilité que ce critère soit satisfait est égale à %s.
 
+:: Translations: 35c74b2: Source Text
+
+Box and Whisker Plot
+
+:: Translations: 35c74b2: Translation
+
+Boîte à moustaches
+
 :: Translations: c2bb46d: Source Text
 
 It naturally integrates the treatment of non-detects.
@@ -1553,6 +1561,22 @@ Methodology
 
 Méthodologie
 
+:: Translations: 148b9b5: Source Text
+
+The measurements are scattered around the middle point of the x-axis. The box
+(outer horizontal lines) represents the distance between the %s and %s
+percentiles. The whisker (vertical line) represent the distance between the %s
+and %s percentiles. The inner black horizontal line is the median. The OEL is
+shown as a red line.
+
+:: Translations: 148b9b5: Translation
+
+Les mesures sont dispersées autour du point central de l'axe des x. La boîte
+(lignes horizontales extérieures) représente la distance entre les %s et %s
+percentiles. Les moustaches (lignes verticales) représentent la distance entre
+les %s et %s percentiles. La ligne horizontale noire intérieure est la médiane.
+La VLE est représentée par une ligne rouge.
+
 :: Translations: 9797b53: Source Text
 
 Tool 1 assumes that the measurements represent a random sample drawn from the
@@ -1578,14 +1602,6 @@ Health, Volume 63, Issue 3, April 2019, Pages 267-279.
 Jérôme Lavoué, Lawrence Joseph, Peter Knott, Hugh Davies, France Labrèche,
 Frédéric Clerc, Gautier Mater, Tracy Kirkham, %s, Annals of Work Exposures and
 Health, Volume 63, Numéro 3, Avril 2019, Pages 267-279.
-
-:: Translations: ffb2d53: Source Text
-
-Box and Whiskers Plot
-
-:: Translations: ffb2d53: Translation
-
-Boîte à moustaches
 
 :: Translations: e42d220: Source Text
 
@@ -2129,20 +2145,6 @@ the OEL.
 
 Le critère de surexposition est défini comme étant la moyenne arithmétique
 supérieure ou égale à la VLE.
-
-:: Translations: 1708b36: Source Text
-
-The measurements are scattered around the x-axis middle point. The box (outer
-horizontal lines) represents the distance between the %s and %s percentiles.
-The whiskers (vertical lines) represent the distance between the %s and %s
-percentiles. The inner black horizontal line is the median.
-
-:: Translations: 1708b36: Translation
-
-Les mesures sont dispersées autour du point central de l'axe des x. La boîte
-(lignes horizontales extérieures) représente la distance entre les %s et %s
-percentiles. Les moustaches (lignes verticales) représentent la distance entre
-les %s et %s percentiles. La ligne horizontale noire intérieure est la médiane.
 
 :: Translations: 7385e52: Source Text
 

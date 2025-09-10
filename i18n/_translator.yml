@@ -31,7 +31,7 @@ Texts:
       - !<Location>
         Identifier: 449ff93:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 412, Col 25 @ Ln 412, Col 78
+        Ranges: Ln 409, Col 25 @ Ln 409, Col 78
       - !<Location>
         Identifier: 449ff93:l4
         Path: ./R/ui-panel-percentiles.R
@@ -49,7 +49,7 @@ Texts:
       - !<Location>
         Identifier: 82cb390:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 991, Col 29 @ Ln 996, Col 30
+        Ranges: Ln 989, Col 29 @ Ln 994, Col 30
   - !<Text>
     Identifier: 9add3cf
     Algorithm: sha1
@@ -69,7 +69,7 @@ Texts:
       - !<Location>
         Identifier: 9add3cf:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 356, Col 13 @ Ln 356, Col 50
+        Ranges: Ln 353, Col 13 @ Ln 353, Col 50
       - !<Location>
         Identifier: 9add3cf:l4
         Path: ./R/ui-panel-percentiles.R
@@ -100,7 +100,7 @@ Texts:
       - !<Location>
         Identifier: 10c4b97:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1157, Col 20 @ Ln 1161, Col 14
+        Ranges: Ln 1155, Col 20 @ Ln 1159, Col 14
   - !<Text>
     Identifier: 78552d4
     Algorithm: sha1
@@ -128,7 +128,7 @@ Texts:
       - !<Location>
         Identifier: 0cdc87d:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 433, Col 21 @ Ln 439, Col 22
+        Ranges: Ln 431, Col 21 @ Ln 437, Col 22
   - !<Text>
     Identifier: ad77e09
     Algorithm: sha1
@@ -142,7 +142,7 @@ Texts:
       - !<Location>
         Identifier: ad77e09:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 577, Col 20 @ Ln 580, Col 14
+        Ranges: Ln 575, Col 20 @ Ln 578, Col 14
   - !<Text>
     Identifier: 46750d4
     Algorithm: sha1
@@ -154,7 +154,7 @@ Texts:
       - !<Location>
         Identifier: 46750d4:l1
         Path: ./R/ui-title.R
-        Ranges: Ln 545, Col 13 @ Ln 545, Col 71
+        Ranges: Ln 541, Col 13 @ Ln 541, Col 71
   - !<Text>
     Identifier: fdd3398
     Algorithm: sha1
@@ -166,7 +166,7 @@ Texts:
       - !<Location>
         Identifier: fdd3398:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 420, Col 25 @ Ln 420, Col 63
+        Ranges: Ln 418, Col 25 @ Ln 418, Col 63
   - !<Text>
     Identifier: e0147d1
     Algorithm: sha1
@@ -186,7 +186,7 @@ Texts:
       - !<Location>
         Identifier: e0147d1:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 526, Col 25 @ Ln 529, Col 26
+        Ranges: Ln 523, Col 25 @ Ln 526, Col 26
       - !<Location>
         Identifier: e0147d1:l4
         Path: ./R/ui-panel-percentiles.R
@@ -210,11 +210,11 @@ Texts:
       - !<Location>
         Identifier: df83adb:l2
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 190, Col 21 @ Ln 190, Col 61
+        Ranges: Ln 191, Col 21 @ Ln 191, Col 61
       - !<Location>
         Identifier: df83adb:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 351, Col 13 @ Ln 351, Col 55
+        Ranges: Ln 348, Col 13 @ Ln 348, Col 55
   - !<Text>
     Identifier: bda8863
     Algorithm: sha1
@@ -228,7 +228,7 @@ Texts:
       - !<Location>
         Identifier: bda8863:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1030, Col 21 @ Ln 1034, Col 22
+        Ranges: Ln 1028, Col 21 @ Ln 1032, Col 22
   - !<Text>
     Identifier: a632e97
     Algorithm: sha1
@@ -240,7 +240,7 @@ Texts:
       - !<Location>
         Identifier: a632e97:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 172, Col 21 @ Ln 172, Col 68
+        Ranges: Ln 173, Col 21 @ Ln 173, Col 68
   - !<Text>
     Identifier: '7034018'
     Algorithm: sha1
@@ -252,7 +252,7 @@ Texts:
       - !<Location>
         Identifier: 7034018:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 271, Col 39 @ Ln 271, Col 76
+        Ranges: Ln 272, Col 39 @ Ln 272, Col 76
   - !<Text>
     Identifier: 82332ff
     Algorithm: sha1
@@ -266,7 +266,7 @@ Texts:
       - !<Location>
         Identifier: 82332ff:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1170, Col 29 @ Ln 1174, Col 30
+        Ranges: Ln 1168, Col 29 @ Ln 1172, Col 30
   - !<Text>
     Identifier: d033ecc
     Algorithm: sha1
@@ -301,7 +301,7 @@ Texts:
       - !<Location>
         Identifier: 7d60ad6:l2
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1054, Col 29 @ Ln 1054, Col 63
+        Ranges: Ln 1052, Col 29 @ Ln 1052, Col 63
   - !<Text>
     Identifier: 4cc6c29
     Algorithm: sha1
@@ -316,7 +316,7 @@ Texts:
       - !<Location>
         Identifier: 4cc6c29:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1090, Col 20 @ Ln 1095, Col 14
+        Ranges: Ln 1088, Col 20 @ Ln 1093, Col 14
   - !<Text>
     Identifier: dc74f5c
     Algorithm: sha1
@@ -348,7 +348,7 @@ Texts:
       - !<Location>
         Identifier: 9616619:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 530, Col 21 @ Ln 534, Col 22
+        Ranges: Ln 528, Col 21 @ Ln 532, Col 22
   - !<Text>
     Identifier: 176669b
     Algorithm: sha1
@@ -362,7 +362,7 @@ Texts:
       - !<Location>
         Identifier: 176669b:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 948, Col 25 @ Ln 952, Col 26
+        Ranges: Ln 946, Col 25 @ Ln 950, Col 26
   - !<Text>
     Identifier: a4cd560
     Algorithm: sha1
@@ -392,7 +392,7 @@ Texts:
       - !<Location>
         Identifier: ad1e98e:l2
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 268, Col 39 @ Ln 268, Col 67
+        Ranges: Ln 269, Col 39 @ Ln 269, Col 67
       - !<Location>
         Identifier: ad1e98e:l3
         Path: ./R/ui-panel-exceedance-fraction.R
@@ -440,7 +440,7 @@ Texts:
       - !<Location>
         Identifier: bddbd7f:l2
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1053, Col 29 @ Ln 1053, Col 64
+        Ranges: Ln 1051, Col 29 @ Ln 1051, Col 64
   - !<Text>
     Identifier: '6489309'
     Algorithm: sha1
@@ -455,7 +455,7 @@ Texts:
       - !<Location>
         Identifier: 6489309:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 290, Col 13 @ Ln 295, Col 14
+        Ranges: Ln 295, Col 13 @ Ln 300, Col 14
   - !<Text>
     Identifier: 73dff8f
     Algorithm: sha1
@@ -467,7 +467,7 @@ Texts:
       - !<Location>
         Identifier: 73dff8f:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 575, Col 21 @ Ln 575, Col 75
+        Ranges: Ln 573, Col 21 @ Ln 573, Col 75
   - !<Text>
     Identifier: 4528da3
     Algorithm: sha1
@@ -505,7 +505,7 @@ Texts:
       - !<Location>
         Identifier: 5dc95f8:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 267, Col 13 @ Ln 267, Col 45
+        Ranges: Ln 265, Col 13 @ Ln 265, Col 45
   - !<Text>
     Identifier: 6192e8e
     Algorithm: sha1
@@ -538,7 +538,7 @@ Texts:
       - !<Location>
         Identifier: 127c649:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 281, Col 13 @ Ln 285, Col 14
+        Ranges: Ln 286, Col 13 @ Ln 290, Col 14
   - !<Text>
     Identifier: cebe5c4
     Algorithm: sha1
@@ -558,7 +558,7 @@ Texts:
       - !<Location>
         Identifier: cebe5c4:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 713, Col 29 @ Ln 713, Col 71
+        Ranges: Ln 710, Col 29 @ Ln 710, Col 71
       - !<Location>
         Identifier: cebe5c4:l4
         Path: ./R/ui-panel-percentiles.R
@@ -578,7 +578,7 @@ Texts:
       - !<Location>
         Identifier: b66eca7:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 249, Col 13 @ Ln 254, Col 14
+        Ranges: Ln 250, Col 13 @ Ln 255, Col 14
   - !<Text>
     Identifier: 6863c44
     Algorithm: sha1
@@ -590,7 +590,7 @@ Texts:
       - !<Location>
         Identifier: 6863c44:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 337, Col 13 @ Ln 337, Col 45
+        Ranges: Ln 342, Col 13 @ Ln 342, Col 45
   - !<Text>
     Identifier: 179eb27
     Algorithm: sha1
@@ -602,7 +602,7 @@ Texts:
       - !<Location>
         Identifier: 179eb27:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 495, Col 21 @ Ln 495, Col 79
+        Ranges: Ln 493, Col 21 @ Ln 493, Col 79
   - !<Text>
     Identifier: a2b22df
     Algorithm: sha1
@@ -614,7 +614,7 @@ Texts:
       - !<Location>
         Identifier: a2b22df:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 699, Col 21 @ Ln 699, Col 61
+        Ranges: Ln 697, Col 21 @ Ln 697, Col 61
   - !<Text>
     Identifier: 7e85759
     Algorithm: sha1
@@ -626,7 +626,7 @@ Texts:
       - !<Location>
         Identifier: 7e85759:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 331, Col 13 @ Ln 331, Col 50
+        Ranges: Ln 328, Col 13 @ Ln 328, Col 50
   - !<Text>
     Identifier: 0524962
     Algorithm: sha1
@@ -638,7 +638,7 @@ Texts:
       - !<Location>
         Identifier: 0524962:l1
         Path: ./R/ui-title.R
-        Ranges: Ln 550, Col 13 @ Ln 550, Col 44
+        Ranges: Ln 546, Col 13 @ Ln 546, Col 44
   - !<Text>
     Identifier: be4154f
     Algorithm: sha1
@@ -657,7 +657,7 @@ Texts:
       - !<Location>
         Identifier: be4154f:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 344, Col 20 @ Ln 353, Col 14
+        Ranges: Ln 342, Col 20 @ Ln 351, Col 14
   - !<Text>
     Identifier: 3eba509
     Algorithm: sha1
@@ -677,7 +677,7 @@ Texts:
       - !<Location>
         Identifier: 3eba509:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 321, Col 13 @ Ln 321, Col 55
+        Ranges: Ln 318, Col 13 @ Ln 318, Col 55
       - !<Location>
         Identifier: 3eba509:l4
         Path: ./R/ui-panel-percentiles.R
@@ -693,7 +693,7 @@ Texts:
       - !<Location>
         Identifier: 378fb16:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 257, Col 13 @ Ln 257, Col 47
+        Ranges: Ln 255, Col 13 @ Ln 255, Col 47
   - !<Text>
     Identifier: 426cfe3
     Algorithm: sha1
@@ -729,7 +729,7 @@ Texts:
       - !<Location>
         Identifier: 04339f1:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 484, Col 20 @ Ln 488, Col 14
+        Ranges: Ln 482, Col 20 @ Ln 486, Col 14
   - !<Text>
     Identifier: 80d1a60
     Algorithm: sha1
@@ -753,7 +753,7 @@ Texts:
       - !<Location>
         Identifier: fa75cdd:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 189, Col 21 @ Ln 189, Col 73
+        Ranges: Ln 190, Col 21 @ Ln 190, Col 73
   - !<Text>
     Identifier: 632ebd0
     Algorithm: sha1
@@ -765,7 +765,7 @@ Texts:
       - !<Location>
         Identifier: 632ebd0:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 197, Col 21 @ Ln 197, Col 62
+        Ranges: Ln 198, Col 21 @ Ln 198, Col 62
   - !<Text>
     Identifier: 4c4b9ae
     Algorithm: sha1
@@ -779,7 +779,7 @@ Texts:
       - !<Location>
         Identifier: 4c4b9ae:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 483, Col 29 @ Ln 487, Col 30
+        Ranges: Ln 480, Col 29 @ Ln 484, Col 30
   - !<Text>
     Identifier: ad9a641
     Algorithm: sha1
@@ -791,7 +791,7 @@ Texts:
       - !<Location>
         Identifier: ad9a641:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 359, Col 21 @ Ln 359, Col 65
+        Ranges: Ln 357, Col 21 @ Ln 357, Col 65
   - !<Text>
     Identifier: 77a3276
     Algorithm: sha1
@@ -815,7 +815,7 @@ Texts:
       - !<Location>
         Identifier: fbc45b3:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 616, Col 20 @ Ln 618, Col 14
+        Ranges: Ln 614, Col 20 @ Ln 616, Col 14
   - !<Text>
     Identifier: 7e21f78
     Algorithm: sha1
@@ -853,7 +853,7 @@ Texts:
       - !<Location>
         Identifier: 380f931:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 332, Col 13 @ Ln 332, Col 46
+        Ranges: Ln 337, Col 13 @ Ln 337, Col 46
   - !<Text>
     Identifier: af71ace
     Algorithm: sha1
@@ -865,7 +865,7 @@ Texts:
       - !<Location>
         Identifier: af71ace:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 648, Col 21 @ Ln 651, Col 22
+        Ranges: Ln 646, Col 21 @ Ln 649, Col 22
   - !<Text>
     Identifier: b817814
     Algorithm: sha1
@@ -891,7 +891,7 @@ Texts:
       - !<Location>
         Identifier: f542f1c:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 720, Col 21 @ Ln 724, Col 22
+        Ranges: Ln 718, Col 21 @ Ln 722, Col 22
   - !<Text>
     Identifier: 1d671e4
     Algorithm: sha1
@@ -905,7 +905,7 @@ Texts:
       - !<Location>
         Identifier: 1d671e4:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 390, Col 25 @ Ln 393, Col 26
+        Ranges: Ln 387, Col 25 @ Ln 390, Col 26
       - !<Location>
         Identifier: 1d671e4:l2
         Path: ./R/ui-panel-percentiles.R
@@ -921,7 +921,7 @@ Texts:
       - !<Location>
         Identifier: 5fafea5:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 823, Col 21 @ Ln 823, Col 85
+        Ranges: Ln 821, Col 21 @ Ln 821, Col 85
   - !<Text>
     Identifier: 8c8796c
     Algorithm: sha1
@@ -933,7 +933,7 @@ Texts:
       - !<Location>
         Identifier: 8c8796c:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 836, Col 21 @ Ln 836, Col 68
+        Ranges: Ln 834, Col 21 @ Ln 834, Col 68
   - !<Text>
     Identifier: e80025a
     Algorithm: sha1
@@ -953,7 +953,7 @@ Texts:
       - !<Location>
         Identifier: e80025a:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 361, Col 13 @ Ln 361, Col 55
+        Ranges: Ln 358, Col 13 @ Ln 358, Col 55
       - !<Location>
         Identifier: e80025a:l4
         Path: ./R/ui-panel-percentiles.R
@@ -992,7 +992,7 @@ Texts:
       - !<Location>
         Identifier: c73ed1b:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 663, Col 13 @ Ln 665, Col 14
+        Ranges: Ln 660, Col 13 @ Ln 662, Col 14
       - !<Location>
         Identifier: c73ed1b:l4
         Path: ./R/ui-panel-percentiles.R
@@ -1008,7 +1008,7 @@ Texts:
       - !<Location>
         Identifier: 930bac6:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 775, Col 21 @ Ln 775, Col 73
+        Ranges: Ln 773, Col 21 @ Ln 773, Col 73
   - !<Text>
     Identifier: 81fb05e
     Algorithm: sha1
@@ -1020,7 +1020,7 @@ Texts:
       - !<Location>
         Identifier: 81fb05e:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 198, Col 21 @ Ln 198, Col 51
+        Ranges: Ln 199, Col 21 @ Ln 199, Col 51
   - !<Text>
     Identifier: f533761
     Algorithm: sha1
@@ -1044,11 +1044,11 @@ Texts:
       - !<Location>
         Identifier: 511580d:l1
         Path: ./app.R
-        Ranges: Ln 242, Col 9 @ Ln 242, Col 57
+        Ranges: Ln 239, Col 9 @ Ln 239, Col 57
       - !<Location>
         Identifier: 511580d:l2
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 303, Col 13 @ Ln 303, Col 61
+        Ranges: Ln 300, Col 13 @ Ln 300, Col 61
   - !<Text>
     Identifier: 43057f4
     Algorithm: sha1
@@ -1060,7 +1060,7 @@ Texts:
       - !<Location>
         Identifier: 43057f4:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 418, Col 25 @ Ln 418, Col 54
+        Ranges: Ln 416, Col 25 @ Ln 416, Col 54
   - !<Text>
     Identifier: 305b9f6
     Algorithm: sha1
@@ -1072,7 +1072,7 @@ Texts:
       - !<Location>
         Identifier: 305b9f6:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 192, Col 21 @ Ln 192, Col 70
+        Ranges: Ln 193, Col 21 @ Ln 193, Col 70
   - !<Text>
     Identifier: 24a1b71
     Algorithm: sha1
@@ -1084,7 +1084,7 @@ Texts:
       - !<Location>
         Identifier: 24a1b71:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 181, Col 21 @ Ln 181, Col 52
+        Ranges: Ln 182, Col 21 @ Ln 182, Col 52
   - !<Text>
     Identifier: 3976eaa
     Algorithm: sha1
@@ -1100,7 +1100,7 @@ Texts:
       - !<Location>
         Identifier: 3976eaa:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1068, Col 21 @ Ln 1074, Col 22
+        Ranges: Ln 1066, Col 21 @ Ln 1072, Col 22
   - !<Text>
     Identifier: 2f456d9
     Algorithm: sha1
@@ -1121,9 +1121,9 @@ Texts:
         Identifier: 2f456d9:l3
         Path: ./R/ui-panel-express-mode.R
         Ranges:
-          - Ln 566, Col 25 @ Ln 568, Col 26
-          - Ln 605, Col 25 @ Ln 607, Col 26
-          - Ln 643, Col 25 @ Ln 645, Col 26
+          - Ln 563, Col 25 @ Ln 565, Col 26
+          - Ln 602, Col 25 @ Ln 604, Col 26
+          - Ln 640, Col 25 @ Ln 642, Col 26
       - !<Location>
         Identifier: 2f456d9:l4
         Path: ./R/ui-panel-percentiles.R
@@ -1139,7 +1139,7 @@ Texts:
       - !<Location>
         Identifier: 6298302:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 311, Col 13 @ Ln 313, Col 14
+        Ranges: Ln 316, Col 13 @ Ln 318, Col 14
   - !<Text>
     Identifier: f6667d4
     Algorithm: sha1
@@ -1163,7 +1163,7 @@ Texts:
       - !<Location>
         Identifier: a744f49:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 206, Col 13 @ Ln 206, Col 74
+        Ranges: Ln 211, Col 13 @ Ln 211, Col 74
   - !<Text>
     Identifier: 03c33e5
     Algorithm: sha1
@@ -1187,11 +1187,11 @@ Texts:
       - !<Location>
         Identifier: 745ebd1:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 262, Col 13 @ Ln 262, Col 62
+        Ranges: Ln 260, Col 13 @ Ln 260, Col 62
       - !<Location>
         Identifier: 745ebd1:l2
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 327, Col 13 @ Ln 327, Col 62
+        Ranges: Ln 332, Col 13 @ Ln 332, Col 62
   - !<Text>
     Identifier: 00b437c
     Algorithm: sha1
@@ -1207,7 +1207,7 @@ Texts:
       - !<Location>
         Identifier: 00b437c:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 259, Col 13 @ Ln 264, Col 14
+        Ranges: Ln 264, Col 13 @ Ln 269, Col 14
   - !<Text>
     Identifier: 79fb413
     Algorithm: sha1
@@ -1221,7 +1221,7 @@ Texts:
       - !<Location>
         Identifier: 79fb413:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 318, Col 13 @ Ln 322, Col 14
+        Ranges: Ln 323, Col 13 @ Ln 327, Col 14
   - !<Text>
     Identifier: 4f6392c
     Algorithm: sha1
@@ -1233,7 +1233,7 @@ Texts:
       - !<Location>
         Identifier: 4f6392c:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 316, Col 13 @ Ln 316, Col 77
+        Ranges: Ln 313, Col 13 @ Ln 313, Col 77
   - !<Text>
     Identifier: 0595dc0
     Algorithm: sha1
@@ -1249,7 +1249,7 @@ Texts:
       - !<Location>
         Identifier: 0595dc0:l2
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 555, Col 25 @ Ln 558, Col 26
+        Ranges: Ln 552, Col 25 @ Ln 555, Col 26
   - !<Text>
     Identifier: 1a6a68b
     Algorithm: sha1
@@ -1261,7 +1261,7 @@ Texts:
       - !<Location>
         Identifier: 1a6a68b:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1062, Col 21 @ Ln 1064, Col 14
+        Ranges: Ln 1060, Col 21 @ Ln 1062, Col 14
   - !<Text>
     Identifier: 38210f7
     Algorithm: sha1
@@ -1275,7 +1275,7 @@ Texts:
       - !<Location>
         Identifier: 38210f7:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 587, Col 21 @ Ln 590, Col 22
+        Ranges: Ln 585, Col 21 @ Ln 588, Col 22
   - !<Text>
     Identifier: 8fc2a6a
     Algorithm: sha1
@@ -1287,7 +1287,7 @@ Texts:
       - !<Location>
         Identifier: 8fc2a6a:l1
         Path: ./R/ui-title.R
-        Ranges: Ln 533, Col 13 @ Ln 535, Col 14
+        Ranges: Ln 529, Col 13 @ Ln 531, Col 14
   - !<Text>
     Identifier: 7b55099
     Algorithm: sha1
@@ -1339,7 +1339,7 @@ Texts:
       - !<Location>
         Identifier: 92193c3:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 335, Col 21 @ Ln 335, Col 61
+        Ranges: Ln 333, Col 21 @ Ln 333, Col 61
   - !<Text>
     Identifier: 10ef3a6
     Algorithm: sha1
@@ -1379,7 +1379,7 @@ Texts:
       - !<Location>
         Identifier: 532bf12:l2
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 746, Col 31 @ Ln 746, Col 61
+        Ranges: Ln 743, Col 31 @ Ln 743, Col 61
       - !<Location>
         Identifier: 532bf12:l3
         Path: ./R/ui-panel-percentiles.R
@@ -1398,7 +1398,7 @@ Texts:
       - !<Location>
         Identifier: bf93329:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 745, Col 20 @ Ln 750, Col 14
+        Ranges: Ln 743, Col 20 @ Ln 748, Col 14
   - !<Text>
     Identifier: 1277d46
     Algorithm: sha1
@@ -1410,7 +1410,7 @@ Texts:
       - !<Location>
         Identifier: 1277d46:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1039, Col 25 @ Ln 1039, Col 67
+        Ranges: Ln 1037, Col 25 @ Ln 1037, Col 67
   - !<Text>
     Identifier: d9fe05c
     Algorithm: sha1
@@ -1427,7 +1427,7 @@ Texts:
       - !<Location>
         Identifier: d9fe05c:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 269, Col 13 @ Ln 276, Col 14
+        Ranges: Ln 274, Col 13 @ Ln 281, Col 14
   - !<Text>
     Identifier: 9bdd102
     Algorithm: sha1
@@ -1439,7 +1439,7 @@ Texts:
       - !<Location>
         Identifier: 9bdd102:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 236, Col 13 @ Ln 236, Col 53
+        Ranges: Ln 241, Col 13 @ Ln 241, Col 53
   - !<Text>
     Identifier: a3c6c52
     Algorithm: sha1
@@ -1453,7 +1453,7 @@ Texts:
         Path: ./R/ui-panel-descriptive-statistics.R
         Ranges:
           - Ln 244, Col 39 @ Ln 244, Col 72
-          - Ln 269, Col 39 @ Ln 269, Col 72
+          - Ln 270, Col 39 @ Ln 270, Col 72
   - !<Text>
     Identifier: f6e929e
     Algorithm: sha1
@@ -1467,7 +1467,7 @@ Texts:
       - !<Location>
         Identifier: f6e929e:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 363, Col 21 @ Ln 367, Col 22
+        Ranges: Ln 361, Col 21 @ Ln 365, Col 22
   - !<Text>
     Identifier: '8785301'
     Algorithm: sha1
@@ -1479,7 +1479,7 @@ Texts:
       - !<Location>
         Identifier: 8785301:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 231, Col 13 @ Ln 231, Col 60
+        Ranges: Ln 236, Col 13 @ Ln 236, Col 60
   - !<Text>
     Identifier: 3d4f8d5
     Algorithm: sha1
@@ -1491,7 +1491,7 @@ Texts:
       - !<Location>
         Identifier: 3d4f8d5:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 191, Col 21 @ Ln 191, Col 75
+        Ranges: Ln 192, Col 21 @ Ln 192, Col 75
   - !<Text>
     Identifier: b7b4f0b
     Algorithm: sha1
@@ -1505,7 +1505,7 @@ Texts:
         Path: ./R/ui-panel-descriptive-statistics.R
         Ranges:
           - Ln 243, Col 39 @ Ln 243, Col 80
-          - Ln 266, Col 39 @ Ln 266, Col 80
+          - Ln 267, Col 39 @ Ln 267, Col 80
   - !<Text>
     Identifier: e9989ce
     Algorithm: sha1
@@ -1517,7 +1517,7 @@ Texts:
       - !<Location>
         Identifier: e9989ce:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 940, Col 20 @ Ln 940, Col 62
+        Ranges: Ln 938, Col 20 @ Ln 938, Col 62
   - !<Text>
     Identifier: a0028fe
     Algorithm: sha1
@@ -1531,7 +1531,7 @@ Texts:
       - !<Location>
         Identifier: a0028fe:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 711, Col 21 @ Ln 715, Col 22
+        Ranges: Ln 709, Col 21 @ Ln 713, Col 22
   - !<Text>
     Identifier: 70d45be
     Algorithm: sha1
@@ -1543,11 +1543,11 @@ Texts:
       - !<Location>
         Identifier: 70d45be:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 417, Col 25 @ Ln 417, Col 58
+        Ranges: Ln 415, Col 25 @ Ln 415, Col 58
       - !<Location>
         Identifier: 70d45be:l2
         Path: ./R/ui-title.R
-        Ranges: Ln 540, Col 13 @ Ln 540, Col 48
+        Ranges: Ln 536, Col 13 @ Ln 536, Col 48
   - !<Text>
     Identifier: 27c579f
     Algorithm: sha1
@@ -1567,7 +1567,7 @@ Texts:
       - !<Location>
         Identifier: 27c579f:l2
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 718, Col 13 @ Ln 724, Col 14
+        Ranges: Ln 715, Col 13 @ Ln 721, Col 14
   - !<Text>
     Identifier: 481daf9
     Algorithm: sha1
@@ -1582,7 +1582,7 @@ Texts:
       - !<Location>
         Identifier: 481daf9:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 337, Col 20 @ Ln 342, Col 14
+        Ranges: Ln 335, Col 20 @ Ln 340, Col 14
   - !<Text>
     Identifier: 9b3e862
     Algorithm: sha1
@@ -1609,7 +1609,7 @@ Texts:
       - !<Location>
         Identifier: c77a676:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 419, Col 25 @ Ln 419, Col 57
+        Ranges: Ln 417, Col 25 @ Ln 417, Col 57
   - !<Text>
     Identifier: 6918de6
     Algorithm: sha1
@@ -1621,7 +1621,7 @@ Texts:
       - !<Location>
         Identifier: 6918de6:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 173, Col 21 @ Ln 173, Col 65
+        Ranges: Ln 174, Col 21 @ Ln 174, Col 65
   - !<Text>
     Identifier: e04262e
     Algorithm: sha1
@@ -1633,7 +1633,7 @@ Texts:
       - !<Location>
         Identifier: e04262e:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 728, Col 20 @ Ln 730, Col 14
+        Ranges: Ln 726, Col 20 @ Ln 728, Col 14
   - !<Text>
     Identifier: 08b8516
     Algorithm: sha1
@@ -1649,7 +1649,7 @@ Texts:
       - !<Location>
         Identifier: 08b8516:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 432, Col 25 @ Ln 438, Col 26
+        Ranges: Ln 429, Col 25 @ Ln 435, Col 26
   - !<Text>
     Identifier: 8cbc334
     Algorithm: sha1
@@ -1661,7 +1661,7 @@ Texts:
       - !<Location>
         Identifier: 8cbc334:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 763, Col 21 @ Ln 763, Col 85
+        Ranges: Ln 761, Col 21 @ Ln 761, Col 85
   - !<Text>
     Identifier: 848dc48
     Algorithm: sha1
@@ -1677,7 +1677,7 @@ Texts:
       - !<Location>
         Identifier: 848dc48:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 560, Col 25 @ Ln 566, Col 26
+        Ranges: Ln 558, Col 25 @ Ln 564, Col 26
   - !<Text>
     Identifier: 3a55954
     Algorithm: sha1
@@ -1689,7 +1689,7 @@ Texts:
       - !<Location>
         Identifier: 3a55954:l1
         Path: ./R/ui-title.R
-        Ranges: Ln 519, Col 13 @ Ln 521, Col 14
+        Ranges: Ln 515, Col 13 @ Ln 517, Col 14
   - !<Text>
     Identifier: '3883288'
     Algorithm: sha1
@@ -1719,7 +1719,7 @@ Texts:
       - !<Location>
         Identifier: 1de8474:l2
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 267, Col 39 @ Ln 267, Col 77
+        Ranges: Ln 268, Col 39 @ Ln 268, Col 77
       - !<Location>
         Identifier: 1de8474:l3
         Path: ./R/ui-panel-exceedance-fraction.R
@@ -1729,7 +1729,7 @@ Texts:
       - !<Location>
         Identifier: 1de8474:l4
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 711, Col 29 @ Ln 711, Col 67
+        Ranges: Ln 708, Col 29 @ Ln 708, Col 67
       - !<Location>
         Identifier: 1de8474:l5
         Path: ./R/ui-panel-percentiles.R
@@ -1747,7 +1747,7 @@ Texts:
       - !<Location>
         Identifier: e2b62b1:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 743, Col 21 @ Ln 743, Col 85
+        Ranges: Ln 741, Col 21 @ Ln 741, Col 85
   - !<Text>
     Identifier: 50da20b
     Algorithm: sha1
@@ -1759,7 +1759,7 @@ Texts:
       - !<Location>
         Identifier: 50da20b:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1045, Col 25 @ Ln 1045, Col 75
+        Ranges: Ln 1043, Col 25 @ Ln 1043, Col 75
   - !<Text>
     Identifier: 5bbca33
     Algorithm: sha1
@@ -1771,7 +1771,7 @@ Texts:
       - !<Location>
         Identifier: 5bbca33:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 194, Col 21 @ Ln 194, Col 74
+        Ranges: Ln 195, Col 21 @ Ln 195, Col 74
   - !<Text>
     Identifier: 5f52075
     Algorithm: sha1
@@ -1787,7 +1787,7 @@ Texts:
       - !<Location>
         Identifier: 5f52075:l2
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 744, Col 31 @ Ln 744, Col 71
+        Ranges: Ln 741, Col 31 @ Ln 741, Col 71
       - !<Location>
         Identifier: 5f52075:l3
         Path: ./R/ui-panel-percentiles.R
@@ -1807,7 +1807,7 @@ Texts:
       - !<Location>
         Identifier: e2b0950:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 825, Col 20 @ Ln 830, Col 14
+        Ranges: Ln 823, Col 20 @ Ln 828, Col 14
   - !<Text>
     Identifier: be94953
     Algorithm: sha1
@@ -1843,9 +1843,9 @@ Texts:
         Identifier: f73886c:l3
         Path: ./R/ui-panel-express-mode.R
         Ranges:
-          - Ln 576, Col 25 @ Ln 578, Col 26
-          - Ln 615, Col 25 @ Ln 617, Col 26
-          - Ln 653, Col 25 @ Ln 655, Col 26
+          - Ln 573, Col 25 @ Ln 575, Col 26
+          - Ln 612, Col 25 @ Ln 614, Col 26
+          - Ln 650, Col 25 @ Ln 652, Col 26
       - !<Location>
         Identifier: f73886c:l4
         Path: ./R/ui-panel-percentiles.R
@@ -1864,7 +1864,7 @@ Texts:
       - !<Location>
         Identifier: 6aff6b7:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 891, Col 20 @ Ln 895, Col 14
+        Ranges: Ln 889, Col 20 @ Ln 893, Col 14
   - !<Text>
     Identifier: 9eef958
     Algorithm: sha1
@@ -1879,7 +1879,7 @@ Texts:
       - !<Location>
         Identifier: 9eef958:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 665, Col 25 @ Ln 670, Col 26
+        Ranges: Ln 663, Col 25 @ Ln 668, Col 26
   - !<Text>
     Identifier: ed8d758
     Algorithm: sha1
@@ -1893,7 +1893,7 @@ Texts:
       - !<Location>
         Identifier: ed8d758:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1085, Col 21 @ Ln 1088, Col 14
+        Ranges: Ln 1083, Col 21 @ Ln 1086, Col 14
   - !<Text>
     Identifier: fc5b077
     Algorithm: sha1
@@ -1933,11 +1933,23 @@ Texts:
       - !<Location>
         Identifier: 4e2a12c:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 401, Col 25 @ Ln 404, Col 26
+        Ranges: Ln 398, Col 25 @ Ln 401, Col 26
       - !<Location>
         Identifier: 4e2a12c:l4
         Path: ./R/ui-panel-percentiles.R
         Ranges: Ln 348, Col 25 @ Ln 351, Col 26
+  - !<Text>
+    Identifier: 35c74b2
+    Algorithm: sha1
+    Hash: 35c74b2529589573295333c346142de9ea7b21e4
+    Source Language: en
+    Source Text: Box and Whisker Plot
+    Translations: ~
+    Locations:
+      - !<Location>
+        Identifier: 35c74b2:l1
+        Path: ./R/ui-panel-descriptive-statistics.R
+        Ranges: Ln 220, Col 13 @ Ln 220, Col 60
   - !<Text>
     Identifier: c2bb46d
     Algorithm: sha1
@@ -1949,7 +1961,7 @@ Texts:
       - !<Location>
         Identifier: c2bb46d:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 910, Col 21 @ Ln 912, Col 22
+        Ranges: Ln 908, Col 21 @ Ln 910, Col 22
   - !<Text>
     Identifier: d2a9835
     Algorithm: sha1
@@ -1964,7 +1976,7 @@ Texts:
       - !<Location>
         Identifier: d2a9835:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 765, Col 20 @ Ln 769, Col 14
+        Ranges: Ln 763, Col 20 @ Ln 767, Col 14
   - !<Text>
     Identifier: c165d34
     Algorithm: sha1
@@ -1980,7 +1992,7 @@ Texts:
       - !<Location>
         Identifier: c165d34:l2
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 743, Col 31 @ Ln 743, Col 70
+        Ranges: Ln 740, Col 31 @ Ln 740, Col 70
       - !<Location>
         Identifier: c165d34:l3
         Path: ./R/ui-panel-percentiles.R
@@ -1998,7 +2010,7 @@ Texts:
       - !<Location>
         Identifier: cd84e16:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 777, Col 20 @ Ln 780, Col 14
+        Ranges: Ln 775, Col 20 @ Ln 778, Col 14
   - !<Text>
     Identifier: 04a1dc2
     Algorithm: sha1
@@ -2023,7 +2035,7 @@ Texts:
       - !<Location>
         Identifier: 0ff7e09:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 209, Col 13 @ Ln 209, Col 62
+        Ranges: Ln 210, Col 13 @ Ln 210, Col 62
   - !<Text>
     Identifier: 23eb033
     Algorithm: sha1
@@ -2048,7 +2060,7 @@ Texts:
         Identifier: 8f7f102:l1
         Path: ./R/ui-panel-descriptive-statistics.R
         Ranges:
-          - Ln 214, Col 13 @ Ln 214, Col 62
+          - Ln 215, Col 13 @ Ln 215, Col 62
           - Ln 240, Col 39 @ Ln 240, Col 86
   - !<Text>
     Identifier: 6db5beb
@@ -2065,7 +2077,7 @@ Texts:
       - !<Location>
         Identifier: 6db5beb:l2
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 745, Col 31 @ Ln 745, Col 72
+        Ranges: Ln 742, Col 31 @ Ln 742, Col 72
       - !<Location>
         Identifier: 6db5beb:l3
         Path: ./R/ui-panel-percentiles.R
@@ -2095,7 +2107,7 @@ Texts:
       - !<Location>
         Identifier: 0a5c356:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 351, Col 13 @ Ln 354, Col 14
+        Ranges: Ln 356, Col 13 @ Ln 359, Col 14
   - !<Text>
     Identifier: e510a31
     Algorithm: sha1
@@ -2107,7 +2119,7 @@ Texts:
       - !<Location>
         Identifier: e510a31:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 593, Col 25 @ Ln 596, Col 26
+        Ranges: Ln 590, Col 25 @ Ln 593, Col 26
       - !<Location>
         Identifier: e510a31:l2
         Path: ./R/ui-panel-percentiles.R
@@ -2126,7 +2138,7 @@ Texts:
       - !<Location>
         Identifier: dbb0a02:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 342, Col 13 @ Ln 346, Col 14
+        Ranges: Ln 347, Col 13 @ Ln 351, Col 14
   - !<Text>
     Identifier: 690c3dc
     Algorithm: sha1
@@ -2138,7 +2150,7 @@ Texts:
       - !<Location>
         Identifier: 690c3dc:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 747, Col 31 @ Ln 747, Col 75
+        Ranges: Ln 744, Col 31 @ Ln 744, Col 75
   - !<Text>
     Identifier: ea57967
     Algorithm: sha1
@@ -2150,7 +2162,7 @@ Texts:
       - !<Location>
         Identifier: ea57967:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 226, Col 13 @ Ln 226, Col 70
+        Ranges: Ln 231, Col 13 @ Ln 231, Col 70
   - !<Text>
     Identifier: f69c2db
     Algorithm: sha1
@@ -2170,7 +2182,7 @@ Texts:
       - !<Location>
         Identifier: f69c2db:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 326, Col 13 @ Ln 326, Col 49
+        Ranges: Ln 323, Col 13 @ Ln 323, Col 49
       - !<Location>
         Identifier: f69c2db:l4
         Path: ./R/ui-panel-percentiles.R
@@ -2186,7 +2198,7 @@ Texts:
       - !<Location>
         Identifier: 798b335:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 216, Col 13 @ Ln 216, Col 70
+        Ranges: Ln 221, Col 13 @ Ln 221, Col 70
   - !<Text>
     Identifier: e279776
     Algorithm: sha1
@@ -2200,7 +2212,7 @@ Texts:
       - !<Location>
         Identifier: e279776:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 241, Col 13 @ Ln 244, Col 14
+        Ranges: Ln 246, Col 13 @ Ln 249, Col 14
   - !<Text>
     Identifier: b69a61b
     Algorithm: sha1
@@ -2214,7 +2226,7 @@ Texts:
       - !<Location>
         Identifier: b69a61b:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 701, Col 20 @ Ln 704, Col 14
+        Ranges: Ln 699, Col 20 @ Ln 702, Col 14
   - !<Text>
     Identifier: 6135ed1
     Algorithm: sha1
@@ -2249,7 +2261,7 @@ Texts:
       - !<Location>
         Identifier: c0390ed:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1011, Col 21 @ Ln 1020, Col 22
+        Ranges: Ln 1009, Col 21 @ Ln 1018, Col 22
   - !<Text>
     Identifier: 62fc968
     Algorithm: sha1
@@ -2262,8 +2274,8 @@ Texts:
         Identifier: 62fc968:l1
         Path: ./R/ui-panel-descriptive-statistics.R
         Ranges:
-          - Ln 178, Col 29 @ Ln 178, Col 64
-          - Ln 185, Col 29 @ Ln 185, Col 64
+          - Ln 179, Col 29 @ Ln 179, Col 64
+          - Ln 186, Col 29 @ Ln 186, Col 64
       - !<Location>
         Identifier: 62fc968:l2
         Path: ./R/ui-panel-percentiles.R
@@ -2283,7 +2295,7 @@ Texts:
       - !<Location>
         Identifier: 86f03e3:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 838, Col 20 @ Ln 841, Col 14
+        Ranges: Ln 836, Col 20 @ Ln 839, Col 14
   - !<Text>
     Identifier: 8e3c26e
     Algorithm: sha1
@@ -2298,7 +2310,7 @@ Texts:
       - !<Location>
         Identifier: 8e3c26e:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 795, Col 21 @ Ln 799, Col 22
+        Ranges: Ln 793, Col 21 @ Ln 797, Col 22
   - !<Text>
     Identifier: e200a41
     Algorithm: sha1
@@ -2329,7 +2341,7 @@ Texts:
       - !<Location>
         Identifier: 962996f:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 902, Col 21 @ Ln 905, Col 22
+        Ranges: Ln 900, Col 21 @ Ln 903, Col 22
   - !<Text>
     Identifier: 9e15647
     Algorithm: sha1
@@ -2341,7 +2353,7 @@ Texts:
       - !<Location>
         Identifier: 9e15647:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 1051, Col 25 @ Ln 1051, Col 74
+        Ranges: Ln 1049, Col 25 @ Ln 1049, Col 74
   - !<Text>
     Identifier: ebaaa0c
     Algorithm: sha1
@@ -2360,7 +2372,7 @@ Texts:
       - !<Location>
         Identifier: ebaaa0c:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 754, Col 17 @ Ln 767, Col 18
+        Ranges: Ln 751, Col 17 @ Ln 764, Col 18
   - !<Text>
     Identifier: aeaec6e
     Algorithm: sha1
@@ -2374,7 +2386,7 @@ Texts:
       - !<Location>
         Identifier: aeaec6e:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 812, Col 21 @ Ln 815, Col 22
+        Ranges: Ln 810, Col 21 @ Ln 813, Col 22
   - !<Text>
     Identifier: 0660bde
     Algorithm: sha1
@@ -2386,7 +2398,24 @@ Texts:
       - !<Location>
         Identifier: 0660bde:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 272, Col 13 @ Ln 272, Col 51
+        Ranges: Ln 270, Col 13 @ Ln 270, Col 51
+  - !<Text>
+    Identifier: 148b9b5
+    Algorithm: sha1
+    Hash: 148b9b58f4655c45b7d45528591a3344f9b171c9
+    Source Language: en
+    Source Text: |-
+      The measurements are scattered around the middle point of the x-axis. The
+      box (outer horizontal lines) represents the distance between the %s and
+      %s percentiles. The whisker (vertical line) represent the distance
+      between the %s and %s percentiles. The inner black horizontal line is the
+      median. The OEL is shown as a red line.
+    Translations: ~
+    Locations:
+      - !<Location>
+        Identifier: 148b9b5:l1
+        Path: ./R/ui-panel-descriptive-statistics.R
+        Ranges: Ln 279, Col 17 @ Ln 286, Col 18
   - !<Text>
     Identifier: 9797b53
     Algorithm: sha1
@@ -2402,7 +2431,7 @@ Texts:
       - !<Location>
         Identifier: 9797b53:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 277, Col 13 @ Ln 283, Col 14
+        Ranges: Ln 275, Col 13 @ Ln 281, Col 14
   - !<Text>
     Identifier: 3710c88
     Algorithm: sha1
@@ -2417,19 +2446,7 @@ Texts:
       - !<Location>
         Identifier: 3710c88:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 856, Col 21 @ Ln 862, Col 22
-  - !<Text>
-    Identifier: ffb2d53
-    Algorithm: sha1
-    Hash: ffb2d53200345c9bfc6e6791d7f95a5620814729
-    Source Language: en
-    Source Text: Box and Whiskers Plot
-    Translations: ~
-    Locations:
-      - !<Location>
-        Identifier: ffb2d53:l1
-        Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 219, Col 13 @ Ln 219, Col 61
+        Ranges: Ln 854, Col 21 @ Ln 860, Col 22
   - !<Text>
     Identifier: e42d220
     Algorithm: sha1
@@ -2441,7 +2458,7 @@ Texts:
       - !<Location>
         Identifier: e42d220:l1
         Path: ./R/ui-title.R
-        Ranges: Ln 526, Col 13 @ Ln 528, Col 14
+        Ranges: Ln 522, Col 13 @ Ln 524, Col 14
   - !<Text>
     Identifier: 4f7aff7
     Algorithm: sha1
@@ -2453,7 +2470,7 @@ Texts:
       - !<Location>
         Identifier: 4f7aff7:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 614, Col 21 @ Ln 614, Col 84
+        Ranges: Ln 612, Col 21 @ Ln 612, Col 84
   - !<Text>
     Identifier: 87ae55d
     Algorithm: sha1
@@ -2465,7 +2482,7 @@ Texts:
       - !<Location>
         Identifier: 87ae55d:l1
         Path: ./R/ui-title.R
-        Ranges: Ln 555, Col 13 @ Ln 555, Col 75
+        Ranges: Ln 551, Col 13 @ Ln 551, Col 75
   - !<Text>
     Identifier: 18576cd
     Algorithm: sha1
@@ -2480,7 +2497,7 @@ Texts:
       - !<Location>
         Identifier: 18576cd:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 393, Col 20 @ Ln 398, Col 14
+        Ranges: Ln 391, Col 20 @ Ln 396, Col 14
   - !<Text>
     Identifier: 46750b1
     Algorithm: sha1
@@ -2506,7 +2523,7 @@ Texts:
       - !<Location>
         Identifier: 854081a:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 462, Col 29 @ Ln 465, Col 30
+        Ranges: Ln 459, Col 29 @ Ln 462, Col 30
   - !<Text>
     Identifier: d1394d6
     Algorithm: sha1
@@ -2539,7 +2556,7 @@ Texts:
       - !<Location>
         Identifier: 67c3cba:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 887, Col 21 @ Ln 889, Col 14
+        Ranges: Ln 885, Col 21 @ Ln 887, Col 14
   - !<Text>
     Identifier: 3a47c3b
     Algorithm: sha1
@@ -2557,7 +2574,7 @@ Texts:
       - !<Location>
         Identifier: 3a47c3b:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 959, Col 21 @ Ln 967, Col 22
+        Ranges: Ln 957, Col 21 @ Ln 965, Col 22
   - !<Text>
     Identifier: 5f29b65
     Algorithm: sha1
@@ -2569,11 +2586,11 @@ Texts:
       - !<Location>
         Identifier: 5f29b65:l1
         Path: ./app.R
-        Ranges: Ln 261, Col 24 @ Ln 261, Col 63
+        Ranges: Ln 258, Col 24 @ Ln 258, Col 63
       - !<Location>
         Identifier: 5f29b65:l2
         Path: ./R/ui-title.R
-        Ranges: Ln 565, Col 13 @ Ln 565, Col 54
+        Ranges: Ln 561, Col 13 @ Ln 561, Col 54
   - !<Text>
     Identifier: ac24260
     Algorithm: sha1
@@ -2599,7 +2616,7 @@ Texts:
       - !<Location>
         Identifier: 466a65e:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 221, Col 13 @ Ln 221, Col 68
+        Ranges: Ln 226, Col 13 @ Ln 226, Col 68
   - !<Text>
     Identifier: 97a777e
     Algorithm: sha1
@@ -2623,7 +2640,7 @@ Texts:
       - !<Location>
         Identifier: 1b5e945:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 603, Col 21 @ Ln 606, Col 22
+        Ranges: Ln 601, Col 21 @ Ln 604, Col 22
   - !<Text>
     Identifier: 8cdd8fb
     Algorithm: sha1
@@ -2647,7 +2664,7 @@ Texts:
       - !<Location>
         Identifier: da34e30:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 193, Col 21 @ Ln 193, Col 60
+        Ranges: Ln 194, Col 21 @ Ln 194, Col 60
   - !<Text>
     Identifier: 4a92c81
     Algorithm: sha1
@@ -2662,7 +2679,7 @@ Texts:
       - !<Location>
         Identifier: 4a92c81:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 402, Col 21 @ Ln 406, Col 22
+        Ranges: Ln 400, Col 21 @ Ln 404, Col 22
   - !<Text>
     Identifier: a2acebe
     Algorithm: sha1
@@ -2676,7 +2693,7 @@ Texts:
       - !<Location>
         Identifier: a2acebe:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 595, Col 21 @ Ln 598, Col 22
+        Ranges: Ln 593, Col 21 @ Ln 596, Col 22
   - !<Text>
     Identifier: 6f32d93
     Algorithm: sha1
@@ -2700,7 +2717,7 @@ Texts:
       - !<Location>
         Identifier: 89fba6b:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 252, Col 13 @ Ln 252, Col 66
+        Ranges: Ln 250, Col 13 @ Ln 250, Col 66
   - !<Text>
     Identifier: 0d592d3
     Algorithm: sha1
@@ -2714,7 +2731,7 @@ Texts:
       - !<Location>
         Identifier: 0d592d3:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 917, Col 21 @ Ln 920, Col 22
+        Ranges: Ln 915, Col 21 @ Ln 918, Col 22
   - !<Text>
     Identifier: 2c6b20c
     Algorithm: sha1
@@ -2728,7 +2745,7 @@ Texts:
       - !<Location>
         Identifier: 2c6b20c:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 506, Col 29 @ Ln 509, Col 30
+        Ranges: Ln 503, Col 29 @ Ln 506, Col 30
   - !<Text>
     Identifier: cf880eb
     Algorithm: sha1
@@ -2744,7 +2761,7 @@ Texts:
       - !<Location>
         Identifier: cf880eb:l2
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 632, Col 25 @ Ln 635, Col 26
+        Ranges: Ln 629, Col 25 @ Ln 632, Col 26
   - !<Text>
     Identifier: e92bf46
     Algorithm: sha1
@@ -2772,7 +2789,7 @@ Texts:
       - !<Location>
         Identifier: e83e3ca:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 622, Col 21 @ Ln 628, Col 22
+        Ranges: Ln 620, Col 21 @ Ln 626, Col 22
   - !<Text>
     Identifier: 07fb93b
     Algorithm: sha1
@@ -2800,7 +2817,7 @@ Texts:
       - !<Location>
         Identifier: b267cef:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 501, Col 25 @ Ln 508, Col 26
+        Ranges: Ln 499, Col 25 @ Ln 506, Col 26
   - !<Text>
     Identifier: 4af6872
     Algorithm: sha1
@@ -2812,11 +2829,11 @@ Texts:
       - !<Location>
         Identifier: 4af6872:l1
         Path: ./app.R
-        Ranges: Ln 260, Col 24 @ Ln 260, Col 64
+        Ranges: Ln 257, Col 24 @ Ln 257, Col 64
       - !<Location>
         Identifier: 4af6872:l2
         Path: ./R/ui-title.R
-        Ranges: Ln 560, Col 13 @ Ln 560, Col 55
+        Ranges: Ln 556, Col 13 @ Ln 556, Col 55
   - !<Text>
     Identifier: 5f12363
     Algorithm: sha1
@@ -2828,7 +2845,7 @@ Texts:
       - !<Location>
         Identifier: 5f12363:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 482, Col 21 @ Ln 482, Col 83
+        Ranges: Ln 480, Col 21 @ Ln 480, Col 83
   - !<Text>
     Identifier: 2576f78
     Algorithm: sha1
@@ -2842,7 +2859,7 @@ Texts:
       - !<Location>
         Identifier: 2576f78:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 804, Col 21 @ Ln 807, Col 22
+        Ranges: Ln 802, Col 21 @ Ln 805, Col 22
   - !<Text>
     Identifier: ab42808
     Algorithm: sha1
@@ -2861,7 +2878,7 @@ Texts:
       - !<Location>
         Identifier: ab42808:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 971, Col 20 @ Ln 979, Col 14
+        Ranges: Ln 969, Col 20 @ Ln 977, Col 14
   - !<Text>
     Identifier: d111f1a
     Algorithm: sha1
@@ -2911,7 +2928,7 @@ Texts:
       - !<Location>
         Identifier: 899d691:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 787, Col 21 @ Ln 790, Col 22
+        Ranges: Ln 785, Col 21 @ Ln 788, Col 22
   - !<Text>
     Identifier: 0e99366
     Algorithm: sha1
@@ -2938,7 +2955,7 @@ Texts:
       - !<Location>
         Identifier: be1bbe3:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 455, Col 21 @ Ln 459, Col 22
+        Ranges: Ln 453, Col 21 @ Ln 457, Col 22
   - !<Text>
     Identifier: 84fd2eb
     Algorithm: sha1
@@ -2953,7 +2970,7 @@ Texts:
       - !<Location>
         Identifier: 84fd2eb:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 732, Col 20 @ Ln 737, Col 14
+        Ranges: Ln 730, Col 20 @ Ln 735, Col 14
   - !<Text>
     Identifier: 8d5cf97
     Algorithm: sha1
@@ -2991,7 +3008,7 @@ Texts:
       - !<Location>
         Identifier: 5518029:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 542, Col 21 @ Ln 544, Col 14
+        Ranges: Ln 540, Col 21 @ Ln 542, Col 14
   - !<Text>
     Identifier: f111efa
     Algorithm: sha1
@@ -3003,7 +3020,7 @@ Texts:
       - !<Location>
         Identifier: f111efa:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 429, Col 21 @ Ln 429, Col 77
+        Ranges: Ln 427, Col 21 @ Ln 427, Col 77
   - !<Text>
     Identifier: 159e957
     Algorithm: sha1
@@ -3017,7 +3034,7 @@ Texts:
       - !<Location>
         Identifier: 159e957:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 638, Col 20 @ Ln 641, Col 14
+        Ranges: Ln 636, Col 20 @ Ln 639, Col 14
   - !<Text>
     Identifier: c6e0f91
     Algorithm: sha1
@@ -3029,7 +3046,7 @@ Texts:
       - !<Location>
         Identifier: c6e0f91:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 245, Col 13 @ Ln 247, Col 14
+        Ranges: Ln 245, Col 13 @ Ln 245, Col 77
   - !<Text>
     Identifier: 5b8a460
     Algorithm: sha1
@@ -3050,7 +3067,7 @@ Texts:
       - !<Location>
         Identifier: 5b8a460:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 537, Col 25 @ Ln 540, Col 26
+        Ranges: Ln 534, Col 25 @ Ln 537, Col 26
       - !<Location>
         Identifier: 5b8a460:l4
         Path: ./R/ui-panel-percentiles.R
@@ -3066,7 +3083,7 @@ Texts:
       - !<Location>
         Identifier: 0a99270:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 346, Col 13 @ Ln 346, Col 59
+        Ranges: Ln 343, Col 13 @ Ln 343, Col 59
       - !<Location>
         Identifier: 0a99270:l2
         Path: ./R/ui-panel-percentiles.R
@@ -3082,7 +3099,7 @@ Texts:
       - !<Location>
         Identifier: 96d547d:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 188, Col 21 @ Ln 188, Col 53
+        Ranges: Ln 189, Col 21 @ Ln 189, Col 53
   - !<Text>
     Identifier: da9cc89
     Algorithm: sha1
@@ -3102,7 +3119,7 @@ Texts:
       - !<Location>
         Identifier: da9cc89:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 366, Col 13 @ Ln 366, Col 54
+        Ranges: Ln 363, Col 13 @ Ln 363, Col 54
       - !<Location>
         Identifier: da9cc89:l4
         Path: ./R/ui-panel-percentiles.R
@@ -3139,7 +3156,7 @@ Texts:
       - !<Location>
         Identifier: 9670dfb:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 520, Col 21 @ Ln 520, Col 76
+        Ranges: Ln 518, Col 21 @ Ln 518, Col 76
   - !<Text>
     Identifier: c6394ac
     Algorithm: sha1
@@ -3183,7 +3200,7 @@ Texts:
       - !<Location>
         Identifier: 79e5ee7:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 336, Col 13 @ Ln 336, Col 63
+        Ranges: Ln 333, Col 13 @ Ln 333, Col 63
       - !<Location>
         Identifier: 79e5ee7:l4
         Path: ./R/ui-panel-percentiles.R
@@ -3207,7 +3224,7 @@ Texts:
       - !<Location>
         Identifier: f10baab:l3
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 741, Col 31 @ Ln 741, Col 67
+        Ranges: Ln 738, Col 31 @ Ln 738, Col 67
       - !<Location>
         Identifier: f10baab:l4
         Path: ./R/ui-panel-percentiles.R
@@ -3225,7 +3242,7 @@ Texts:
         Path: ./R/ui-panel-descriptive-statistics.R
         Ranges:
           - Ln 245, Col 39 @ Ln 245, Col 76
-          - Ln 270, Col 39 @ Ln 270, Col 76
+          - Ln 271, Col 39 @ Ln 271, Col 76
   - !<Text>
     Identifier: da5e3d2
     Algorithm: sha1
@@ -3241,22 +3258,6 @@ Texts:
         Path: ./R/ui-panel-arithmetic-mean.R
         Ranges: Ln 355, Col 21 @ Ln 358, Col 22
   - !<Text>
-    Identifier: 1708b36
-    Algorithm: sha1
-    Hash: 1708b361336ea582dc969adbf4284ead864ddc85
-    Source Language: en
-    Source Text: |-
-      The measurements are scattered around the x-axis middle point. The box
-      (outer horizontal lines) represents the distance between the %s and %s
-      percentiles. The whiskers (vertical lines) represent the distance between
-      the %s and %s percentiles. The inner black horizontal line is the median.
-    Translations: ~
-    Locations:
-      - !<Location>
-        Identifier: 1708b36:l1
-        Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 277, Col 17 @ Ln 284, Col 18
-  - !<Text>
     Identifier: 7385e52
     Algorithm: sha1
     Hash: 7385e5227d1dc1411cbdeec149fd5b536c11939e
@@ -3270,7 +3271,7 @@ Texts:
       - !<Location>
         Identifier: 7385e52:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 932, Col 20 @ Ln 936, Col 14
+        Ranges: Ln 930, Col 20 @ Ln 934, Col 14
   - !<Text>
     Identifier: 815a98d
     Algorithm: sha1
@@ -3285,7 +3286,7 @@ Texts:
       - !<Location>
         Identifier: 815a98d:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 546, Col 20 @ Ln 551, Col 14
+        Ranges: Ln 544, Col 20 @ Ln 549, Col 14
   - !<Text>
     Identifier: d257a4e
     Algorithm: sha1
@@ -3301,7 +3302,7 @@ Texts:
       - !<Location>
         Identifier: d257a4e:l2
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 742, Col 31 @ Ln 742, Col 64
+        Ranges: Ln 739, Col 31 @ Ln 739, Col 64
       - !<Location>
         Identifier: d257a4e:l3
         Path: ./R/ui-panel-percentiles.R
@@ -3329,7 +3330,7 @@ Texts:
       - !<Location>
         Identifier: 2bbf9dd:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 449, Col 21 @ Ln 451, Col 14
+        Ranges: Ln 447, Col 21 @ Ln 449, Col 14
   - !<Text>
     Identifier: 68c086f
     Algorithm: sha1
@@ -3345,7 +3346,7 @@ Texts:
       - !<Location>
         Identifier: 68c086f:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 300, Col 13 @ Ln 306, Col 14
+        Ranges: Ln 305, Col 13 @ Ln 311, Col 14
   - !<Text>
     Identifier: 463c845
     Algorithm: sha1
@@ -3372,7 +3373,7 @@ Texts:
       - !<Location>
         Identifier: f9b43e3:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 928, Col 21 @ Ln 930, Col 14
+        Ranges: Ln 926, Col 21 @ Ln 928, Col 14
   - !<Text>
     Identifier: a5a2911
     Algorithm: sha1
@@ -3393,8 +3394,8 @@ Texts:
         Identifier: a5a2911:l2
         Path: ./R/ui-panel-express-mode.R
         Ranges:
-          - Ln 341, Col 13 @ Ln 341, Col 59
-          - Ln 712, Col 29 @ Ln 712, Col 73
+          - Ln 338, Col 13 @ Ln 338, Col 59
+          - Ln 709, Col 29 @ Ln 709, Col 73
   - !<Text>
     Identifier: 7be717b
     Algorithm: sha1
@@ -3422,7 +3423,7 @@ Texts:
       - !<Location>
         Identifier: 8dd7020:l1
         Path: ./R/ui-panel-express-mode.R
-        Ranges: Ln 693, Col 13 @ Ln 698, Col 14
+        Ranges: Ln 690, Col 13 @ Ln 695, Col 14
   - !<Text>
     Identifier: 1a0644e
     Algorithm: sha1
@@ -3436,7 +3437,7 @@ Texts:
       - !<Location>
         Identifier: 1a0644e:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 656, Col 21 @ Ln 659, Col 22
+        Ranges: Ln 654, Col 21 @ Ln 657, Col 22
   - !<Text>
     Identifier: b740be6
     Algorithm: sha1
@@ -3448,7 +3449,7 @@ Texts:
       - !<Location>
         Identifier: b740be6:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 525, Col 21 @ Ln 525, Col 83
+        Ranges: Ln 523, Col 21 @ Ln 523, Col 83
   - !<Text>
     Identifier: 603143d
     Algorithm: sha1
@@ -3500,7 +3501,7 @@ Texts:
       - !<Location>
         Identifier: fe0789f:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 391, Col 21 @ Ln 391, Col 68
+        Ranges: Ln 389, Col 21 @ Ln 389, Col 68
   - !<Text>
     Identifier: a2334d7
     Algorithm: sha1
@@ -3527,7 +3528,7 @@ Texts:
       - !<Location>
         Identifier: c810b50:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 249, Col 13 @ Ln 254, Col 14
+        Ranges: Ln 254, Col 13 @ Ln 259, Col 14
   - !<Text>
     Identifier: 3e0b7d6
     Algorithm: sha1
@@ -3539,7 +3540,7 @@ Texts:
       - !<Location>
         Identifier: 3e0b7d6:l1
         Path: ./R/ui-panel-descriptive-statistics.R
-        Ranges: Ln 174, Col 21 @ Ln 174, Col 53
+        Ranges: Ln 175, Col 21 @ Ln 175, Col 53
   - !<Text>
     Identifier: 12bad1c
     Algorithm: sha1
@@ -3555,7 +3556,7 @@ Texts:
       - !<Location>
         Identifier: 12bad1c:l1
         Path: ./R/ui-modal-faq.R
-        Ranges: Ln 752, Col 20 @ Ln 757, Col 14
+        Ranges: Ln 750, Col 20 @ Ln 755, Col 14
   - !<Text>
     Identifier: af6561e
     Algorithm: sha1
@@ -3572,10 +3573,10 @@ Texts:
         Identifier: af6561e:l2
         Path: ./R/ui-modal-faq.R
         Ranges:
-          - Ln 1110, Col 25 @ Ln 1110, Col 64
-          - Ln 1124, Col 25 @ Ln 1124, Col 64
-          - Ln 1138, Col 25 @ Ln 1138, Col 64
-          - Ln 1152, Col 25 @ Ln 1152, Col 64
+          - Ln 1108, Col 25 @ Ln 1108, Col 64
+          - Ln 1122, Col 25 @ Ln 1122, Col 64
+          - Ln 1136, Col 25 @ Ln 1136, Col 64
+          - Ln 1150, Col 25 @ Ln 1150, Col 64
   - !<Text>
     Identifier: '5998348'
     Algorithm: sha1
@@ -3587,7 +3588,7 @@ Texts:
       - !<Location>
         Identifier: 5998348:l1
         Path: ./R/ui-sidebar.R
-        Ranges: Ln 211, Col 13 @ Ln 211, Col 55
+        Ranges: Ln 216, Col 13 @ Ln 216, Col 55
   - !<Text>
     Identifier: 5540a94
     Algorithm: sha1

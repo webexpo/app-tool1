@@ -217,7 +217,7 @@ server_panel_descriptive_statistics <- function(
         shiny::bindCache(lang())
 
         output$box_plot_title <- shiny::renderText({
-            translate(lang = lang(), "Box and Whiskers Plot")
+            translate(lang = lang(), "Box and Whisker Plot")
         }) |>
         shiny::bindCache(lang())
 
@@ -277,12 +277,12 @@ server_panel_descriptive_statistics <- function(
             lang <- lang()
             html(
                 translate(lang = lang, "
-                    The measurements are scattered around the x-axis middle
-                    point. The box (outer horizontal lines) represents the
-                    distance between the %s and %s percentiles. The whiskers
-                    (vertical lines) represent the distance between the %s
+                    The measurements are scattered around the middle point of
+                    the x-axis. The box (outer horizontal lines) represents the
+                    distance between the %s and %s percentiles. The whisker
+                    (vertical line) represent the distance between the %s
                     and %s percentiles. The inner black horizontal line is
-                    the median.
+                    the median. The OEL is shown as a red line.
                 "),
                 ordinal(25L, lang),
                 ordinal(75L, lang),
