@@ -165,7 +165,7 @@ server_panel_descriptive_statistics <- function(
         })
 
         # The order of row and col names must
-        # match what fun.desc.stat(() returns.
+        # match what fun.desc.stat() returns.
         stats_dim_names <- shiny::reactive({
             lang <- lang()
             list(
@@ -222,12 +222,11 @@ server_panel_descriptive_statistics <- function(
         shiny::bindCache(lang())
 
         output$stats <- shiny::renderUI({
-            lang <- lang()
             dim_names <- stats_dim_names()
             stats <- fun.desc.stat(data_sample_imputed(), data_sample()$c.oel)
 
             # Overwrite internal row names. They are stored in
-            # the first column of whatfun.desc.stat() returns.
+            # the first column of what fun.desc.stat() returns.
             stats$parameter <- dim_names$rows
 
             as_html_table(stats, colnames = dim_names$cols)
