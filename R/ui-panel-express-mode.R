@@ -460,7 +460,7 @@ server_panel_express <- function(id, lang, inputs_calc, simulations, results) {
                                 If the overexposure risk is lower than %s, it
                                 is very low. The situation is well controlled.
                             "),
-                            as_percentage(risk_level_1$threshold)
+                            as_percentage(risk_level_2$threshold)
                         )
                     ),
 
