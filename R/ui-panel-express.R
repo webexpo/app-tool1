@@ -1,29 +1,8 @@
-#' Express Mode Inference Panel Module
+#' Express Panel Module
 #'
 #' @description
-#' This module controls the Express Mode Inference panel component. It is
-#' currently nested into the application's main [bslib::navset] conceptually
-#' illustrated below.
-#'
-#' ```
-#' -------------------------------------------------
-#' | Title                                         |
-#' -------------------------------------------------
-#' | Sidebar | Main                                |
-#' |         |  ---------------------------------  |
-#' |         |  | Panels Navigation             |  |
-#' |         |  ---------------------------------  |
-#' |         |  | Active Panel                  |  |
-#' |         |  |                               |  |
-#' |         |  | Express Mode Panel            |  |
-#' |         |  | (this module)                 |  |
-#' |         |  | (shown when active)           |  |
-#' |         |  |                               |  |
-#' |         |  |                               |  |
-#' |         |  |                               |  |
-#' |         |  ---------------------------------  |
-#' -------------------------------------------------
-#' ```
+#' This module controls the Express panel nested into the application's main
+#' [bslib::navset].
 #'
 #' @template param-id
 #'
@@ -41,11 +20,6 @@
 #'
 #' [server_panel_express()] returns returns a [shiny::reactive()] object.
 #' It can be called to get the panel's title.
-#'
-#' @note
-#' This module is similar to the Exceedance Fraction, Percentiles, and
-#' Arithmetic Mean panels. Most of its contents was copied over from
-#' these modules and lightly refactored.
 #'
 #' @author Jean-Mathieu Potvin (<jeanmathieupotvin@@ununoctium.dev>)
 #'
