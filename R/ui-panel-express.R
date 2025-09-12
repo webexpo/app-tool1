@@ -1,6 +1,5 @@
 #' Express Panel Module
 #'
-#' @description
 #' This module controls the Express panel nested into the application's main
 #' [bslib::navset].
 #'

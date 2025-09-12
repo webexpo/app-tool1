@@ -1,29 +1,7 @@
 #' Descriptive Statistics Panel Module
 #'
-#' @description
-#' This module controls the Descriptive Statistics panel component. It is
-#' currently nested into the application's main [bslib::navset] conceptually
-#' illustrated below.
-#'
-#' ```
-#' -------------------------------------------------
-#' | Title                                         |
-#' -------------------------------------------------
-#' | Sidebar | Main                                |
-#' |         |  ---------------------------------  |
-#' |         |  | Panels Navigation             |  |
-#' |         |  ---------------------------------  |
-#' |         |  | Active Panel                  |  |
-#' |         |  |                               |  |
-#' |         |  | Descriptive Statistics Panel  |  |
-#' |         |  | (this module)                 |  |
-#' |         |  | (shown when active)           |  |
-#' |         |  |                               |  |
-#' |         |  |                               |  |
-#' |         |  |                               |  |
-#' |         |  ---------------------------------  |
-#' -------------------------------------------------
-#' ```
+#' This module controls the Descriptive Statistics panel nested into the
+#' application's main [bslib::navset].
 #'
 #' @template param-id
 #'

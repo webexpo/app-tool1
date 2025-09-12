@@ -1,29 +1,7 @@
 #' Exceedance Fraction Panel Module
 #'
-#' @description
-#' This module controls the Exceedance Fraction panel component. It is currently
-#' nested into the application's main [bslib::navset] conceptually illustrated
-#' below.
-#'
-#' ```
-#' -------------------------------------------------
-#' | Title                                         |
-#' -------------------------------------------------
-#' | Sidebar | Main                                |
-#' |         |  ---------------------------------  |
-#' |         |  | Panels Navigation             |  |
-#' |         |  ---------------------------------  |
-#' |         |  | Active Panel                  |  |
-#' |         |  |                               |  |
-#' |         |  | Exceedance Fraction Panel     |  |
-#' |         |  | (this module)                 |  |
-#' |         |  | (shown when active)           |  |
-#' |         |  |                               |  |
-#' |         |  |                               |  |
-#' |         |  |                               |  |
-#' |         |  ---------------------------------  |
-#' -------------------------------------------------
-#' ```
+#' This module controls the Exceedance Fraction panel nested into the
+#' application's main [bslib::navset].
 #'
 #' @template param-id
 #'
@@ -41,11 +19,6 @@
 #'
 #' [server_panel_exceedance_fraction()] returns a [shiny::reactive()] object.
 #' It can be called to get the panel's title.
-#'
-#' @note
-#' This module is used as a general template that is copied and refactored
-#' into the Percentiles and Arithmetic Mean panel modules. Changes in this
-#' module should be carried into these other two modules.
 #'
 #' @author Jean-Mathieu Potvin (<jeanmathieupotvin@@ununoctium.dev>)
 #'

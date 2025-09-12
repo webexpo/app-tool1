@@ -1,28 +1,7 @@
 #' Percentiles Panel Module
 #'
-#' @description
-#' This module controls the Percentiles panel component. It is currently nested
-#' into the application's main [bslib::navset] conceptually illustrated below.
-#'
-#' ```
-#' -------------------------------------------------
-#' | Title                                         |
-#' -------------------------------------------------
-#' | Sidebar | Main                                |
-#' |         |  ---------------------------------  |
-#' |         |  | Panels Navigation             |  |
-#' |         |  ---------------------------------  |
-#' |         |  | Active Panel                  |  |
-#' |         |  |                               |  |
-#' |         |  | Percentiles Panel             |  |
-#' |         |  | (this module)                 |  |
-#' |         |  | (shown when active)           |  |
-#' |         |  |                               |  |
-#' |         |  |                               |  |
-#' |         |  |                               |  |
-#' |         |  ---------------------------------  |
-#' -------------------------------------------------
-#' ```
+#' This module controls the Percentiles panel nested into the application's
+#' main [bslib::navset].
 #'
 #' @template param-id
 #'

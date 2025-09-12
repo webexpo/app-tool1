@@ -1,29 +1,7 @@
 #' Arithmetic Mean Panel Module
 #'
-#' @description
-#' This module controls the Arithmetic Mean panel component. It is currently
-#' nested into the application's main [bslib::navset] conceptually illustrated
-#' below.
-#'
-#' ```
-#' -------------------------------------------------
-#' | Title                                         |
-#' -------------------------------------------------
-#' | Sidebar | Main                                |
-#' |         |  ---------------------------------  |
-#' |         |  | Panels Navigation             |  |
-#' |         |  ---------------------------------  |
-#' |         |  | Active Panel                  |  |
-#' |         |  |                               |  |
-#' |         |  | Arithmetic Mean Panel         |  |
-#' |         |  | (this module)                 |  |
-#' |         |  | (shown when active)           |  |
-#' |         |  |                               |  |
-#' |         |  |                               |  |
-#' |         |  |                               |  |
-#' |         |  ---------------------------------  |
-#' -------------------------------------------------
-#' ```
+#' This module controls the Arithmetic Mean panel nested into the application's
+#' main [bslib::navset].
 #'
 #' @template param-id
 #'
@@ -41,10 +19,6 @@
 #'
 #' [server_panel_arithmetic_mean()] returns a [shiny::reactive()] object. It
 #' can be called to get the panel's title.
-#'
-#' @note
-#' This module is almost identical to the Exceedance Fraction panel module
-#' (the latter was copied and very lightly refactored).
 #'
 #' @author Jean-Mathieu Potvin (<jeanmathieupotvin@@ununoctium.dev>)
 #'
